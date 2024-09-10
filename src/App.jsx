@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <home></home>
+      <home/>
     </>
   )
 }
